@@ -1,0 +1,15 @@
+Package: gwasFilter
+Type: Package
+Title: Returns -log10 P values of CAD GWAS
+Version: 0.1.0
+Authors@R: person("Damian", "Gola", email = "gola@imbs.uni-luebeck.de",
+                  role = c("aut", "cre"))
+Description: Returns -log10 P values of CAD GWAS.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10),
+    mlr,
+    data.table
+RoxygenNote: 6.0.1
+Imports: stats

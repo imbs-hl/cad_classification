@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/Work/ag_cardio-classification/scripts/packages/importanceFilter",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
